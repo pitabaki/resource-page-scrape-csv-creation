@@ -1,0 +1,25 @@
+{
+  "name": "resource-page-scrape-csv-creation",
+  "version": "1.0.0",
+  "description": "Scrape a list of sites for content; combine the generated CSVs for one complete list",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "html-metadata": "^1.7.0",
+    "follow-redirects": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Berki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitabaki/resource-page-scrape-csv-creation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pitabaki/resource-page-scrape-csv-creation/issues"
+  },
+  "homepage": "https://github.com/pitabaki/resource-page-scrape-csv-creation#readme"
+}
